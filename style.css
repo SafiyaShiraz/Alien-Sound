@@ -1,0 +1,42 @@
+body
+{
+background-color: lightgreen;
+font-family: 'Hubballi', cursive;
+}
+
+.header_div
+{
+background-color: aliceblue;
+color: burlywood;
+
+}
+
+.header_div p
+{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: gray;
+letter-spacing: 3px;
+font-size: 12px;
+font-weight: bold;
+}
+
+.main_div button
+{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+margin-top: 10px;
+width: 130px;
+font-weight: bold;
+letter-spacing: 2px;
+}
+.copyright_footer
+ {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: gray;
+    color: white;
+    text-align: center;  
+    line-height: 5;
+    font-size: 18px;
+    text-shadow: 5px 5px 5px black;
+ }
